@@ -1,2 +1,2 @@
 # SteveOS
-Self-sustaining OS primarily built in python!
+## Self-sustaining OS built in python!
