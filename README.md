@@ -1,5 +1,5 @@
 # SteveOS
-SteveOS is a fully self-sustaining operating system built with nothing but python.
+SteveOS is a (poorly built) fully self-sustaining operating system built with nothing but python.
 
 
 
