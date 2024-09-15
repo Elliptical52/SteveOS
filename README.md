@@ -10,4 +10,4 @@ SteveOS uses a CLI (Command-Line-Interface) for everything.
 ### Me 
 Did all the work
 ### Steve Lacy 
-Name inspiration
+    Name inspiration
