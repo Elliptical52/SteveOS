@@ -7,5 +7,7 @@ SteveOS uses a CLI for everything.
 
 
 ## Credits
-- Me (I did all the work)
-- Steve Lacy (Name inspiration)
+### Me 
+Did all the work
+### Steve Lacy 
+Name inspiration
