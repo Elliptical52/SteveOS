@@ -3,7 +3,7 @@ SteveOS is a (poorly built) fully self-sustaining operating system built with no
 
 ## Features
 ### Interface
-SteveOS uses a CLI for everything.
+SteveOS uses a CLI (Command-Line-Interface) for everything.
 
 
 ## Credits
